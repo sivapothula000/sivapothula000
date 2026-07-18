@@ -12,9 +12,11 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-<img align="right" width="260" src="./assets/profile.png"/>
-
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="70%" valign="top">
 
 Hi! I'm **Pothula Siva Anand**, an aspiring **AI Full Stack Engineer** passionate about building intelligent, scalable, and user-focused applications.
 
@@ -28,7 +30,15 @@ Hi! I'm **Pothula Siva Anand**, an aspiring **AI Full Stack Engineer** passionat
 - ⚡ Solved **500+ competitive programming problems**
 - 🎯 Goal: Become a highly skilled **AI/ML Engineer & Full Stack Developer**
 
-<br clear="right"/>
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="./assets/profile.png" width="230" alt="Pothula Siva Anand"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
